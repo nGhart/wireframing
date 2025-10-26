@@ -46,3 +46,55 @@ Represents interactive components that define how users engage with the system, 
 
 Example:
 A date picker for selecting check-in and check-out dates allows users to input information easily, enhancing usability and efficiency.
+
+## Types of Wireframes
+
+The two main types are low-fidelity and high-fidelity wireframes.
+
+1. Low-Fidelity Wireframes
+
+Low-fidelity wireframes are simple sketches or rough layouts that focus on structure and functionality rather than visual design. They are often created early in the design process to explore ideas and gather feedback.
+
+#### Key Characteristics:
+
+Simple shapes and placeholders (no colors or detailed graphics)
+
+Focus on layout and content hierarchy
+
+Created quickly for brainstorming or early testing
+
+#### When to Use:
+
+In the early design phase, to communicate ideas and test user flows
+
+When presenting initial concepts to stakeholders or team members
+
+Example Use Case:
+Sketching the structure of a hotel booking page with boxes for images, text, and buttons before creating the detailed design.
+
+2. High-Fidelity Wireframes
+
+High-fidelity wireframes are detailed and closely resemble the final product in design and interactivity. They include colors, typography, icons, and real content.
+
+#### Key Characteristics:
+
+Detailed visuals with accurate spacing and alignment
+
+Often interactive (clickable prototypes)
+
+Includes branding elements and real data
+
+#### When to Use:
+
+In the later design phase, before development begins
+
+To gather final feedback from stakeholders or conduct usability testing
+
+Example Use Case:
+Designing a complete interactive mockup of the booking system showing the layout, images, and user interactions.
+
+## Type of Wireframe Used in Project Airbnb
+
+The wireframe used for Project Airbnb is a High-Fidelity Wireframe.
+
+It includes detailed UI elements that closely represent the final application which gives users a clear understanding of the final product design.
