@@ -51,7 +51,7 @@ A date picker for selecting check-in and check-out dates allows users to input i
 
 The two main types are low-fidelity and high-fidelity wireframes.
 
-1. Low-Fidelity Wireframes
+### 1. Low-Fidelity Wireframes
 
 Low-fidelity wireframes are simple sketches or rough layouts that focus on structure and functionality rather than visual design. They are often created early in the design process to explore ideas and gather feedback.
 
@@ -72,7 +72,7 @@ When presenting initial concepts to stakeholders or team members
 Example Use Case:
 Sketching the structure of a hotel booking page with boxes for images, text, and buttons before creating the detailed design.
 
-2. High-Fidelity Wireframes
+### 2. High-Fidelity Wireframes
 
 High-fidelity wireframes are detailed and closely resemble the final product in design and interactivity. They include colors, typography, icons, and real content.
 
@@ -133,4 +133,37 @@ Version Control: Automatically saves changes and tracks version history.
 
 Figma streamlines the design process from concept to prototype, making it ideal for both low-fidelity and high-fidelity wireframes. Its intuitive interface and collaboration tools make it perfect for teams that want to iterate quickly and stay aligned throughout the project.
 
+## Benefits of Wireframing in Software Development
 
+Wireframing plays a crucial role in the software development lifecycle (SDLC) by bridging the gap between ideas and implementation. It provides a clear visual representation of how a product will function and look, helping both designers and developers align before coding begins.
+
+#### 1. Guides the Design and Development Process
+
+Wireframes act as a blueprint for building the user interface. They outline the placement of elements, navigation structure, and flow between screens, ensuring the development team understands exactly what to build.
+
+Example:
+In a booking management system, a wireframe can show the layout for selecting dates, viewing available rooms, and proceeding to checkout. This helps developers visualize how users will interact with each feature and structure their code accordingly.
+
+#### 2. Enhances Communication and Collaboration
+
+Wireframes make it easier for designers, developers, and stakeholders to discuss the product using a shared visual reference. This eliminates confusion that might arise from abstract descriptions or text-based documentation.
+
+Example:
+A designer can show the wireframe of the checkout process, while developers and project managers provide feedback on feasibility and functionality—all while viewing the same layout.
+
+#### 3. Saves Time and Reduces Rework
+
+By identifying usability issues early, wireframes help teams catch design flaws before any code is written. This saves development time and minimizes costly redesigns later in the process.
+
+Example:
+If users find the navigation confusing during the wireframe review stage, it can be fixed quickly without affecting any code or backend structure.
+
+#### 4. Improves User Experience (UX)
+
+Wireframes focus on functionality and flow rather than aesthetics, allowing teams to prioritize how users interact with the product. This ensures the final product is intuitive and efficient.
+
+Example:
+Testing a wireframe of the booking form helps ensure users can easily find and fill required fields, improving satisfaction in the final application.
+
+## Wireframing in Practice
+In our project where users could ask an AI for help, the initial wireframe placed the “Ask AI” button only on the home page. During review, we realized users would need to return there each time to use it. To fix this, we planned to moved the feature into App.js, allowing it to overlay all pages. This change will improve accessibility and user experience and shows how wireframing helps spot and solve usability issues early in the design process.
