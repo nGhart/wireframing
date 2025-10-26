@@ -98,3 +98,39 @@ Designing a complete interactive mockup of the booking system showing the layout
 The wireframe used for Project Airbnb is a High-Fidelity Wireframe.
 
 It includes detailed UI elements that closely represent the final application which gives users a clear understanding of the final product design.
+
+## Popular Wireframing Tools
+
+Wireframing tools make it easier to design, visualize, and collaborate on digital product layouts. They provide built-in features for creating interactive mockups and testing user flows efficiently. Below are some popular wireframing tools used by designers and developers.
+
+Figma: Its advantages are centered around accessibility, collaboration, and a unified design ecosystem.
+
+Adobe XD: Great for prototyping and integrating with other Adobe products.
+
+Sketch: Popular for macOS users with a strong plugin ecosystem.
+
+Balsamiq: Focuses on low-fidelity wireframing with a simple drag-and-drop interface.
+
+Draw.io (Diagrams.net): Free and easy-to-use for quick diagrams and flowcharts.
+
+### Figma
+   
+Figma is a cloud-based design and prototyping tool widely used for wireframing, UI design, and collaboration.
+
+#### Key Features
+
+Real-Time Collaboration: Multiple users can design and edit the same file simultaneously, making teamwork seamless.
+
+Components & Reusability: Designers can create reusable elements like buttons and forms to maintain consistency.
+
+Prototyping: Allows you to add interactivity and create clickable wireframes without coding.
+
+Cross-Platform Access: Works directly in the browser—no installation required.
+
+Version Control: Automatically saves changes and tracks version history.
+
+#### Why Figma is Great for Wireframing
+
+Figma streamlines the design process from concept to prototype, making it ideal for both low-fidelity and high-fidelity wireframes. Its intuitive interface and collaboration tools make it perfect for teams that want to iterate quickly and stay aligned throughout the project.
+
+
